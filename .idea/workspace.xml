@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce5b9a49-30ed-4390-b3e3-fd29b5412518" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/funcoes01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/funcoes02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/funcoes03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arquivos01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arquivos02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arquivos03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arquivos04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arquivos05.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/colecoesPython03.py" beforeDir="false" afterPath="$PROJECT_DIR$/colecoesPython03.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,8 +45,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.funcoes03">
-    <configuration name="colecoesPython02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.arquivos05">
+    <configuration name="arquivos01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -56,7 +58,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/colecoesPython02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arquivos01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -65,7 +67,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="colecoesPython03" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="arquivos02" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,7 +79,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/colecoesPython03.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arquivos02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="funcoes01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="arquivos03" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,7 +100,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funcoes01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arquivos03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="funcoes02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="arquivos04" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,7 +121,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funcoes02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arquivos04.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="funcoes03" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="arquivos05" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,7 +142,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funcoes03.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arquivos05.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.funcoes03" />
-        <item itemvalue="Python.funcoes02" />
-        <item itemvalue="Python.funcoes01" />
-        <item itemvalue="Python.colecoesPython03" />
-        <item itemvalue="Python.colecoesPython02" />
+        <item itemvalue="Python.arquivos05" />
+        <item itemvalue="Python.arquivos04" />
+        <item itemvalue="Python.arquivos03" />
+        <item itemvalue="Python.arquivos02" />
+        <item itemvalue="Python.arquivos01" />
       </list>
     </recent_temporary>
   </component>
